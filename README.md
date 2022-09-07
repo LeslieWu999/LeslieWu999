@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, this is Leslie Wu, a master student in Carnegie Mellon University. I'm currently learning ML and AI.
 
 <!--
 **LeslieWu999/LeslieWu999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
